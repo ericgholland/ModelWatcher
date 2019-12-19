@@ -6,5 +6,6 @@ namespace ModelWatcher
 {
     public class Result
     {
+        public string ResultText { get; set; }
     }
 }
